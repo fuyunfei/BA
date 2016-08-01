@@ -1,4 +1,0 @@
-命名规则： 
-trackway : sift klt 
-trackimgs_num: 
-klt_100: 3D点的设置(xj yj wj)： xj= Px/Pz=Px*w=px/(-f) yj=Py/Pz=Py*w=py/(-f) wj=1/Pz 
